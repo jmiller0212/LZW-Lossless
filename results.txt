@@ -1,0 +1,71 @@
+                                original file size      compressed file size    compression ratio
+all.tar             (LZW)       5437745                 1627788                 3.3406                           
+    MyLZW           n                                   1466200                 3.7087
+    MyLZW           r                                   1018490                 5.3390
+    MyLZW           m                                   1186587                 4.5827
+    WinZip                                              903000                  6.0219
+assig2.doc          (LZW)       87040                   74574                   1.1672
+    MyLZW           n                                   40041                   2.1738                
+    MyLZW           r                                   40041                   2.1738
+    MyLZW           m                                   40041                   2.1738
+    WinZip                                              21500                   4.0484
+bmps.tar            (LZW)       1105920                 925079                  1.1955
+    MyLZW           n                                   80914                   13.6678
+    MyLZW           r                                   80914                   13.6678
+    MyLZW           m                                   80914                   13.6678
+    WinZip                                              1000000                 1.1059
+code.txt            (LZW)       72351                   30980                   2.3354
+    MyLZW           n                                   24545                   2.9477
+    MyLZW           r                                   24545                   2.9477
+    MyLZW           m                                   24545                   2.9477
+    WinZip                                              13900                   5.2051
+code2.txt           (LZW)       57701                   24138                   2.3905
+    MyLZW           n                                   20517                   2.8124
+    MyLZW           r                                   20517                   2.8124
+    MyLZW           m                                   20517                   2.8124
+    WinZip                                              12400                   4.6533
+edit.exe            (LZW)       236328                  250742                  0.9425
+    MyLZW           n                                   156410                  1.5110
+    MyLZW           r                                   152231                  1.5524
+    MyLZW           m                                   156410                  1.5110
+    WinZip                                              117000                  2.0199
+frosty.jpg          (LZW)       126748                  177453                  0.7143
+    MyLZW           n                                   163790                  7.7333
+    MyLZW           r                                   171171                  0.7405
+    MyLZW           m                                   163790                  0.7738
+    WinZip                                              124000                  1.0222
+gone_fishing.bmp    (LZW)       17336                   9278                    1.8685
+    MyLZW           n                                   8964                    1.9340
+    MyLZW           r                                   8964                    1.9340
+    MyLZW           m                                   8964                    1.9340
+    WinZip                                              8000                    2.1670
+large.txt           (LZW)       1220703                 605184                  2.0171
+    MyLZW           n                                   501778                  2.4328
+    MyLZW           r                                   527539                  2.3140
+    MyLZW           m                                   501778                  2.4328
+    WinZip                                              459000                  2.6595
+Lego-big.gif        (LZW)       93371                   128973                  0.7240
+    MyLZW           n                                   122494                  0.7622
+    MyLZW           r                                   122494                  0.7622
+    MyLZW           m                                   122494                  0.7622
+    WinZip                                              90200                   1.0352
+medium.txt          (LZW)       25407                   13197                   1.9252
+    MyLZW           n                                   12532                   2.0274
+    MyLZW           r                                   12532                   2.0274
+    MyLZW           m                                   12532                   2.0274
+    WinZip                                              10100                   2.5155
+texts.tar           (LZW)       1382400                 1012179                 1.3658
+    MyLZW           n                                   597848                  2.3123
+    MyLZW           r                                   590490                  2.3411
+    MyLZW           m                                   597848                  2.3123
+    WinZip                                              1300000                 1.0634
+wacky.bmp           (LZW)       921654                  4302                    214.238
+    MyLZW           n                                   3952                    233.212
+    MyLZW           r                                   3952                    233.212
+    MyLZW           m                                   3952                    233.212
+    WinZip                                              2900                    317.812        
+winnt256.bmp        (LZW)       157044                  159050                  0.9874
+    MyLZW           n                                   62932                   2.4955
+    MyLZW           r                                   62932                   2.4955
+    MyLZW           m                                   62932                   2.4955
+    WinZip                                              43900                   3.5773
